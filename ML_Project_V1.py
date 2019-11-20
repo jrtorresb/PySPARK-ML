@@ -1,7 +1,7 @@
 '''
 ******************************************************
-*** Programa para el proyecto Machine Learning ORCs***
-*** Realizado por José Roberto Torres Bello        ***
+*** Programa para el proyecto Machine Learning     ***
+*** Realizado por Roberto Torres                   ***
 *** Noviembre 2019                                 ***
 ****************************************************** 
 
